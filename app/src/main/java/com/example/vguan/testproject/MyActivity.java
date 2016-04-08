@@ -44,6 +44,7 @@ public class MyActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            System.out.println("VICKY AND DEBORAH WERE HERE");
             return true;
         }
 
